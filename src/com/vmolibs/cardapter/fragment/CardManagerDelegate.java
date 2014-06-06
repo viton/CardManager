@@ -10,4 +10,6 @@ public interface CardManagerDelegate {
 	
 	public int getCurrentCard();
 	
+	public void setCurrentPositionCard(int position);
+	
 }
